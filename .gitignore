@@ -14,12 +14,4 @@ venv/
 .mypy_cache/
 .DS_Store
 *.pyc
-*.json
-*.log
-*.csv
-*.xlsx
-*.xls
-*.pdf
-*.doc
-*.docx
 dist/

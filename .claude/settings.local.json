@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:pickleballchinhhang.vn)",
+      "WebFetch(domain:dinkpro.vn)",
+      "WebFetch(domain:www.courtsoftheworld.com)",
+      "Bash(xargs:*)",
+      "Bash(npx vite build)"
+    ]
+  }
+}
