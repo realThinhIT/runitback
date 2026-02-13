@@ -16,7 +16,6 @@ venv/
 *.pyc
 *.json
 *.log
-*.txt
 *.csv
 *.xlsx
 *.xls
